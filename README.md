@@ -14,3 +14,9 @@ This Power BI dashboard provides an interactive analysis of Spotify data, offeri
 Users can explore data through slicers for year, genre, and artist filters. Navigation buttons embedded in the dashboard provide direct links to Spotify, enabling users to delve deeper into featured artists or playlists.  
 
 This 2-page dashboard demonstrates the value of combining Power BI's capabilities with structured data preparation, transforming raw data into actionable insights.
+
+
+![image](https://github.com/user-attachments/assets/594371e4-5491-47da-a6fc-3018fd37193b)
+![image](https://github.com/user-attachments/assets/a3882d19-8818-4f25-a1f0-298a1521d5a0)
+
+
